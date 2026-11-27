@@ -10,3 +10,4 @@ Write acceptance criteria.
 Update status as work changes.
 Raise blockers early.
 
+Today's schedule
